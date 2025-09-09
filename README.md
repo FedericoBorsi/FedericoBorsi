@@ -1,5 +1,15 @@
 <h1 align="center">Hola! Mi nombre es Federico Martín Borsi👋</h1>
 
+<hr width="60%" >
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/federico-borsi/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/fede.borsi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
+  <a href="mailto:fedeborsi12@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="fedeborsi12@gmail.com" height="30" width="40" /></a>
+</p>
+
+<hr width="60%" >
+
 <h2 align="left"> Sobre mi:</h2>
 <p align="left">
   Soy estudiante de Ingeniería en Sistemas de Información en la UTN (La Plata).
@@ -34,11 +44,3 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=FedericoBorsi&theme=dark" alt="" /></p>
 <br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Contactate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/federico-borsi/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/fede.borsi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
-<a href="mailto:fedeborsi12@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="fedeborsi12@gmail.com" height="30" width="40" /></a>
-
-</p>
