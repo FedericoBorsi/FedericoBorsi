@@ -1,14 +1,14 @@
 <h1 align="center">Hola! Mi nombre es Federico Martín Borsi👋</h1>
 
-<hr width="60%" >
+<hr width="100%" >
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/federico-borsi/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
   <a href="https://www.instagram.com/fede.borsi/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="" height="30" width="40" /></a>
   <a href="mailto:fedeborsi12@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="fedeborsi12@gmail.com" height="30" width="40" /></a>
 </p>
 
-<hr width="60%" >
+<hr width="100%" >
 
 <h2 align="left"> Sobre mi:</h2>
 <p align="left">
@@ -30,7 +30,7 @@
 </p>
 </p><br>
 
-<hr width="36%" >
+<hr width="100%" >
 
 <h3>Estatus de mi GitHub:</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
