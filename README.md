@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Mi nombre es Federico Martin Borsi👋</h1>
+<h1 align="center">Hola! Mi nombre es Federico Martín Borsi👋</h1>
 
 <h2 align="left"> Sobre mi:</h2>
 <p align="left">
