@@ -12,8 +12,6 @@
   Me considero una persona proactiva, curiosa y comprometida, con gusto por el trabajo en equipo y muchas ganas de aprender y crecer dentro de la industria tecnológica.
 </p>
 
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> <br>
-
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,13 +20,11 @@
 </p>
 </p><br>
 
-
 <hr width="36%" >
 
 <h3>Estatus de mi GitHub:</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FedericoBorsi&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></p>
 
