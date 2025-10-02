@@ -25,7 +25,7 @@
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,c,css,html,js,nodejs,npm,java,eclipse,py,django" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,c,css,html,js,nodejs,java,eclipse,py,django" />
   </a>
 </p>
 </p><br>
